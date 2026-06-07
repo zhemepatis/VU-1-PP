@@ -19,4 +19,4 @@ Assessment reference table:
 | 3 | link |smth smth smth 3 |
 | 4 | link | smth smth smth 4 |
 
-Stay curious ⚙️
+Keep it curious! ⚙️
