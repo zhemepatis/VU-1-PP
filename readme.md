@@ -19,11 +19,4 @@ Assessment reference table:
 | 3 | link |smth smth smth 3 |
 | 4 | link | smth smth smth 4 |
 
-# Contact me
-
-If you have some comments, found bug, something interesting or just want to chat - feel free to contact me!
-
-Gmail: rink.gab@gmail.com
-LinkedIn: ...
-
 Stay curious ⚙️
