@@ -1,5 +1,7 @@
 # Repository structure
-This repository contains weekly exercises and assessments for Vilnius University course "Procedural programming". Talking retrospecitvely main goal of this course was to learn the fundamentals of programming. Used programming language: C.
+This repository contains programming assignments completed for the Vilnius University course "Procedural Programming", which introduces students to the fundamentals of programming. The course included 12 weekly assignments, each focused on a different topic, and 4 laboratory projects.
+
+This repository includes solutions for the final 6 weeks of assignments and all 4 laboratory projects.
 
 Weekly exercise reference table:
 | Week number | Folder | Description |
@@ -18,5 +20,3 @@ Assessment reference table:
 | 2 | link | smth smth smth 2 |
 | 3 | link |smth smth smth 3 |
 | 4 | link | smth smth smth 4 |
-
-Keep it curious! ⚙️
