@@ -26,4 +26,4 @@ If you have some comments, found bug, something interesting or just want to chat
 Gmail: rink.gab@gmail.com
 LinkedIn: ...
 
-Stay curious ⚙
+Stay curious ⚙️
