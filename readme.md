@@ -3,7 +3,7 @@ This repository contains programming assignments completed for the Vilnius Unive
 
 This repository includes solutions for the final 6 weeks of assignments and all 4 laboratory projects.
 
-# Weekly exercises reference table
+Weekly exercises reference table:
 | Week number | Link | Description |
 |:---:|:---:|:---:|
 | 07 | link | smth smth smth 1 |
@@ -13,7 +13,7 @@ This repository includes solutions for the final 6 weeks of assignments and all 
 | 11 | link | smth msht |
 | 12 | link | smth |
 
-# Laboratory works reference table
+Laboratory works reference table:
 | Laboratory work number | Link | Description |
 |:---:|:---:|:---:|
 | 01 | link | smth smth smth 1 |
